@@ -1,0 +1,9 @@
+funding_id,startup_id,round_type,amount_million,year
+201,101,Seed,1.2,2017
+202,101,Series A,5.0,2018
+203,102,Angel,0.8,2019
+204,103,Series A,3.5,2017
+205,104,Seed,2.0,2020
+206,104,Series A,6.5,2022
+207,105,Series A,4.0,2018
+208,105,Series B,10.0,2020
