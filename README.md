@@ -16,6 +16,8 @@ About the Project
 
 This project simulates a real-life scenario where we analyze startup performance based on:
 
+Startups
+
 Founders' profiles
 
 Funding rounds
