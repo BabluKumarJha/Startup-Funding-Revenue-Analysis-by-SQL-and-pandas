@@ -61,6 +61,6 @@ This project is a real-world-inspired SQL and Python-based analysis of startup d
 ## 👨‍💻 Author
 
 Created by *Bablu Kumar Jha*  
-Aspiring Data Analyst | SQL & Python Enthusiast
+Aspiring Data Scientist | SQL & Python Enthusiast
 
 ---
